@@ -1,8 +1,8 @@
-node-red-contrib-oled
-=====================
+node-red-contrib-oled-i2c
+=========================
 Forked from https://www.npmjs.com/package/node-red-contrib-oled  
   
-![Image text](https://raw.githubusercontent.com/HendrikRoth/node-red-contrib-oled/master/screen%20example.png)
+![Image text](./screen_example.png)
 
 
 

@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-oled-i2c",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "Node-Red node for controlling OLED displays with SSD1306 and SH1106 drivers",
   "main": "index.js",
   "scripts": {},
@@ -20,6 +20,7 @@
   "homepage": "https://github.com/hadifikri/node-red-contrib-oled-i2c",
   "dependencies": {
     "i2c-bus": "^5.2.2",
+    "oled-font-pack": "^1.0.1",
     "oled-rpi-i2c-bus": "^1.1.4",
     "pngjs": "^6.0.0",
     "pngparse": "^2.0.1",
